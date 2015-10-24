@@ -14,5 +14,5 @@ REGLAS DE NEGOCIO
     imprimir el número mas la palabra "IMPAR!!"
 
   5. Si el numero esta de un rango de 30…40
-    imprimir la palabra VIVA "SWIFT!!"
+    imprimir la palabra "VIVA SWIFT!!"
 
